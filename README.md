@@ -9,6 +9,8 @@ Features:
 - Individual Predictions: Get personalized health insurance predictions tailored to your specific needs and circumstances.
 - Batch Predictions: For businesses and organizations, our app offers efficient batch processing, allowing you to make predictions for multiple individuals at once.
 
+---
+
 ## Project Description Page
 
 <img width="876" alt="project Description" src="./img/pd.png">
@@ -20,6 +22,8 @@ Features:
 ## Batch Prediction Page
 
 <img width="876" alt="Batch Prediction" src="./img/pl.png">
+
+---
 
 <div align="center">
 <i>Contato</i><br> 
