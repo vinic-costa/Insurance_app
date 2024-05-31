@@ -2,7 +2,7 @@
 
 Welcome to Insurance APP
 
-Insurance APP is your go-to solution for Health Insurance predictions. Whether you're an individual looking to understand your insurance needs or a business seeking to make bulk predictions, our app has you covered.
+An application that forecasts medical insurance, predicting medical costs and helping healthcare organizations prepare for expenses.
 
 Features:
 
