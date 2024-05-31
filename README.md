@@ -2,7 +2,7 @@
 
 Welcome to Insurance APP
 
-An application that forecasts medical insurance, predicting medical costs and helping healthcare organizations prepare for expenses.
+Insurance App is a medical insurance forecasting app, predicting medical costs and helping healthcare organizations prepare for expenses.
 
 Features:
 
